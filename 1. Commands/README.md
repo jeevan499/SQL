@@ -4,6 +4,7 @@
   <img src="https://github.com/jeevan499/SQL/blob/main/1.%20Commands/commands%20in%20MySQL.jpg" alt="SQL Banner" />
 </p>
 
+
 ## 📘 Overview
 
 In MySQL, SQL commands are grouped into categories based on their functionality. Understanding these command types is essential for efficient database interaction and management. There are **five main categories** of SQL statements:
@@ -100,7 +101,5 @@ TCL commands are used to **manage transactions** in the database to maintain dat
 
 ## 📌 Final Note
 
-Understanding these SQL command types helps in organizing SQL queries more efficiently and mastering how databases operate under the hood. They form the core of any SQL-based database system like MySQL.
-
----
-
+Understanding these SQL command types helps in organizing SQL queries more efficiently and mastering how databases operate under the hood.  
+Explore the full SQL file here 👉 [Commands in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/1.%20Commands/Commands%20in%20MySQL.sql)
