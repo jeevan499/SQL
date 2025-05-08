@@ -2,10 +2,10 @@
 # 🔗 JOINS in MySQL
 
 <p align="center">
-  <img src="https://your-image-link.com/mysql-joins-banner.png" alt="MySQL Joins" />
+  <img src="https://github.com/jeevan499/SQL/blob/main/5.%20Join/Joins%20In%20SQL.jpg" alt="MySQL Joins" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/5.%20Joins/Joins%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/5.%20Join/Joins.sql)
 
 ---
 
@@ -104,7 +104,7 @@ JOIN employees b ON a.manager_id = b.id;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [Joins in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/5.%20Joins/Joins%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [Joins in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/5.%20Join/Joins.sql)
 
 ---
 
