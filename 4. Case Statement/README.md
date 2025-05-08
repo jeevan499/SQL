@@ -2,7 +2,7 @@
 # 🧠 CASE Statement in MySQL
 
 <p align="center">
-  <img src="https://your-image-link.com/mysql-case-banner.png" alt="MySQL CASE Statement" />
+  <img src="https://training-blog-uploads.internshala.com/blog/wp-content/uploads/2023/07/Case-statement-in-sql-1-2048x854.jpg.webp" alt="MySQL CASE Statement" />
 </p>
 
 🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/4.%20Case%20Statement/Case%20Statement%20in%20MySQL.sql)
