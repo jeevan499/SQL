@@ -1,10 +1,10 @@
 # 🧠 Indexes in MySQL
 
 <p align="center">
-  <img src="https://www.mysqltutorial.org/wp-content/uploads/2020/07/MySQL-Index.png" alt="MySQL Indexes" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pulsesolutions.com%2Fdevelopment%2Foptimizing-mysql-indexing-best-practices-and-strategies-for-complex-queries%2F&psig=AOvVaw14fL17Fp3I-n05hl9hiOtg&ust=1746872355590000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjgueSUlo0DFQAAAAAdAAAAABAe" alt="MySQL Indexes" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/7.%20Indexes/Indexes%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/7.%20Index/Index.sql)
 
 ---
 
@@ -103,7 +103,7 @@ SHOW INDEX FROM employees;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [Indexes in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/7.%20Indexes/Indexes%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [Indexes in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/7.%20Index/Index.sql)
 
 ---
 
