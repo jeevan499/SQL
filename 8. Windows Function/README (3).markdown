@@ -1,10 +1,10 @@
 # 🧠 Window Functions in MySQL
 
 <p align="center">
-  <img src="https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-Window-Functions.png" alt="MySQL Window Functions" />
+  <img src="https://github.com/jeevan499/SQL/blob/main/8.%20Windows%20Function/Windows%20Function.jpg" alt="MySQL Window Functions" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/8.%20Window%20Functions/Window%20Functions%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/8.%20Windows%20Function/Complete%20Windows%20Function%20by%20Jeevan%20Raj.sql)
 
 ---
 
@@ -114,7 +114,7 @@ FROM sales;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [Window Functions in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/8.%20Window%20Functions/Window%20Functions%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [Window Functions in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/8.%20Windows%20Function/Complete%20Windows%20Function%20by%20Jeevan%20Raj.sql)
 
 ---
 
