@@ -1,10 +1,10 @@
 # 🧠 Views in MySQL
 
 <p align="center">
-  <img src="https://www.mysqltutorial.org/wp-content/uploads/2020/07/MySQL-View.png" alt="MySQL Views" />
+  <img src="https://github.com/jeevan499/SQL/blob/main/6.%20Views/Views%20in%20SQL.jpg" alt="MySQL Views" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/6.%20Views/Views%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/6.%20Views/Views%20in%20Mysql%20by%20Jeevan%20Raj.sql)
 
 ---
 
@@ -109,7 +109,7 @@ DROP VIEW IF EXISTS employee_details;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [Views in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/6.%20Views/Views%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [Views in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/6.%20Views/Views%20in%20Mysql%20by%20Jeevan%20Raj.sql)
 
 ---
 
