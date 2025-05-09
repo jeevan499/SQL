@@ -1,10 +1,10 @@
 # 🧠 Subqueries in MySQL
 
 <p align="center">
-  <img src="https://www.mysqltutorial.org/wp-content/uploads/2020/07/MySQL-Subquery.png" alt="MySQL Subqueries" />
+  <img src="https://github.com/jeevan499/SQL/blob/main/10.%20Subquery/Subquery.jpg" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/10.%20Subqueries/Subqueries%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/10.%20Subquery/Subquery.sql)
 
 ---
 
@@ -125,7 +125,7 @@ FROM products;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [Subqueries in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/10.%20Subqueries/Subqueries%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [Subqueries in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/10.%20Subquery/Subquery.sql)
 
 ---
 
