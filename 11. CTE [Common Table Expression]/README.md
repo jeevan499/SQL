@@ -4,7 +4,7 @@
   <img src="https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.png" alt="MySQL CTEs" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE%20(Common%20table%20expression.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.sql)
 
 ---
 
@@ -139,7 +139,7 @@ WHERE ro.order_count > 5;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [CTEs in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE%20(Common%20table%20expression.sql)
+Explore the full SQL script here 👉 [CTEs in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.sql)
 
 ---
 
