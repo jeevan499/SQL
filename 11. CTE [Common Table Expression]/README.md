@@ -1,10 +1,10 @@
 # 🧠 Common Table Expressions (CTEs) in MySQL
 
 <p align="center">
-  <img src="https://www.mysqltutorial.org/wp-content/uploads/2020/07/MySQL-CTE.png" alt="MySQL CTEs" />
+  <img src="https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.png" alt="MySQL CTEs" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/11.%20CTEs/CTEs%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE%20(Common%20table%20expression.sql)
 
 ---
 
@@ -139,7 +139,7 @@ WHERE ro.order_count > 5;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [CTEs in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/11.%20CTEs/CTEs%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [CTEs in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE%20(Common%20table%20expression.sql)
 
 ---
 
