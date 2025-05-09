@@ -1,10 +1,10 @@
 # 🧠 Triggers in MySQL
 
 <p align="center">
-  <img src="https://www.mysqltutorial.org/wp-content/uploads/2020/07/MySQL-Trigger.png" alt="MySQL Triggers" />
+  <img src="https://github.com/jeevan499/SQL/blob/main/9.%20Trigger/Trigger.png" alt="MySQL Triggers" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/9.%20Triggers/Triggers%20in%20MySQL.sql)
+🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/9.%20Trigger/Trigger%20in%20Sql%20by%20Jeevan%20Raj%20.sql)
 
 ---
 
@@ -123,7 +123,7 @@ DROP TRIGGER IF EXISTS after_employee_insert;
 
 ## 📎 Reference
 
-Explore the full SQL script here 👉 [Triggers in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/9.%20Triggers/Triggers%20in%20MySQL.sql)
+Explore the full SQL script here 👉 [Triggers in MySQL.sql](https://github.com/jeevan499/SQL/blob/main/9.%20Trigger/Trigger%20in%20Sql%20by%20Jeevan%20Raj%20.sql)
 
 ---
 
